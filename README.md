@@ -1,7 +1,9 @@
 # comic_react_spa
 
 Main page: https://yathavanparamesh-stratus-spa.herokuapp.com/comic
+
 To view current comic: https://yathavanparamesh-stratus-spa.herokuapp.com/comic
+
 To view specific comic (e.g. 45): https://yathavanparamesh-stratus-spa.herokuapp.com/comic/45
 
 # Getting Started with Create React App
