@@ -6,7 +6,7 @@ import Welcome from './Components/Welcome';
 function App() {
   return (
     <div id="page-cont">
-      <h1>XKCD Comic Reader</h1>
+      <h1><a href="/" style={{textDecoration: 'none', color: 'black'}}>XKCD Comic Reader</a></h1>
       <BrowserRouter>
         <Switch>
           <Route exact path="/comic" component={ComicStrip} />
