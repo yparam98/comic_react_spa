@@ -1,6 +1,6 @@
 # comic_react_spa
 
-Main page: https://yathavanparamesh-stratus-spa.herokuapp.com/comic
+Main page: https://yathavanparamesh-stratus-spa.herokuapp.com/
 
 To view current comic: https://yathavanparamesh-stratus-spa.herokuapp.com/comic
 
